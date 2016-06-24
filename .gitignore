@@ -31,3 +31,12 @@
 # Debug files
 *.dSYM/
 *.su
+
+# YACC and LEX generated files
+*.output
+*.yy.c
+*.tab.c
+*.tab.h
+
+# Input files
+input.txt
